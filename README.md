@@ -13,8 +13,8 @@ The following image demonstrates the web application's appearance and functional
 
 ## The URL of the deployed application:
 
-https://jerrickjohnson.github.io/JerricksProPortfolio/
+https://jerrickjohnson.github.io/MyPortfolio/
 
 ## The URL of the GitHub repository:
 
-https://github.com/JerrickJohnson/JerricksProPortfolio.git
+https://github.com/JerrickJohnson/MyPortfolio
